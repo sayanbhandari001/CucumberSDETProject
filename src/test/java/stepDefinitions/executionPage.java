@@ -20,7 +20,7 @@ import pageObjects.AddcustomerPage;
 import pageObjects.LoginPage;
 import pageObjects.SearchCustomerPage;
 
-public class kuchbhi extends BaseClass
+public class executionPage extends BaseClass
 {
 	@Before
 	public void setup() throws IOException
